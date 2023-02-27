@@ -1,0 +1,7 @@
+# folder
+__pycache__
+
+
+#file
+*.zip
+*.ini
