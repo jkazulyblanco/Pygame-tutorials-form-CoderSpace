@@ -10,7 +10,7 @@ STEP_COLORS = 7
 # https://www.webucator.com/article/python-color-constants-module/
 
 # COLORS = ['black','red','orange','yellow','white']
-COLORS = ['black','olivedrab4','olivedrab3','olivedrab2','white']
+COLORS = ['black','olivedrab4','red','olivedrab2','white']
 # COLORS = ['black','orchid4','orchid3','orchid2','white']
 
 FIRE_TILES_X = 4
