@@ -132,8 +132,8 @@ class App:
 
 
             self.chek_events()
-            self.update()            
             self.draw()
+            self.update()           
 
 if __name__ == '__main__':
     app = App()
